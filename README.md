@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[HTML](https://www.w3schools.com/html/default.asp) |<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> [CSS](https://www.w3schools.com/css/) | [Bootstrap](https://getbootstrap.com/) | [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
+[HTML](https://www.w3schools.com/html/default.asp) | [CSS](https://www.w3schools.com/css/) | [Bootstrap](https://getbootstrap.com/) | [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
   
 </div>
 
