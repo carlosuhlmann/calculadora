@@ -22,9 +22,15 @@
   <img alt="GitHub top language" src="https://github.com/carlosuhlmann/calculadora/blob/master/calc.gif">
  </p>
  
- ## Authors
-* **Carlos Eduardo Uhlmann** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+ <h1 align="left">
+  Autor
+</h1>
+<h3 align="left">
+  Carlos Eduardo Uhlmann
+</h3>
 
+ 
+ 
 
 
 
