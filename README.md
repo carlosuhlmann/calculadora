@@ -22,7 +22,7 @@
   <img alt="GitHub top language" src="https://github.com/carlosuhlmann/calculadora/blob/master/calc.gif">
  </p>
  
- ## Authors
+ ## Autor
 
 * **Carlos Eduardo Uhlmann** - ** - [carlosuhlmann](https://github.com/carlosuhlmann)
 
