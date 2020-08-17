@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <div style="width: 260px; height: 380px;" class="container text-center mt-5 bg-dark border rounded">
+            
+                                 
+                <form action="" name="calculator">
+                    <div>                                         
+                        <input style="width: 97%; height: 45px;" class="bg-warning mt-3 mb-3 border rounded" type="text" name="visor">
+                    </div>
+                    
+                    <div>
+                        <input type="text" value="7" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="8" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="9" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="/" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                    </div>
+                    <div>
+                        <input type="text" value="4" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="5" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="6" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="*" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                    </div>
+                    <div>
+                        <input type="text" value="1" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="2" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="3" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="-" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                    </div>
+                    <div>
+                        <input type="text" value="0" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="." class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                        <input type="text" value="C" class="btn btn-warning m-1 btn-ed" onclick="reset()">
+                        <input type="text" value="+" class="btn btn-warning m-1 btn-ed" onclick="button(value)">
+                    </div>
+                    <div>
+                        <input style="width: 97%;" type="text" value="=" class="btn btn-warning m-1 btn-ed mt-3 mb-3" onclick="calculate()">
+                    </div>                  
+
+
+                </form>
+
+            
+           
+    </div>
+
+    
+
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
