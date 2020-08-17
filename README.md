@@ -6,7 +6,7 @@
   Calculadora que executa cálculos com as operações matemáticas básicas.
 </p>
 
-<hr>
+
   
 
 
