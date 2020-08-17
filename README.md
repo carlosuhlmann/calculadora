@@ -1,6 +1,5 @@
-
-  <h1 align="center"> Calculadora simples 
- 
+<h1 align="center">
+  Calculadora simples 
 </h1>
 
 <p align="center">
