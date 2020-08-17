@@ -24,7 +24,7 @@
  
  ## Autor
 
-* **Carlos Eduardo Uhlmann** - ** - [carlosuhlmann](https://github.com/carlosuhlmann)
+* **Carlos Eduardo Uhlmann** - [carlosuhlmann](https://github.com/carlosuhlmann)
 
 
 
