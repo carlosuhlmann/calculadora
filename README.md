@@ -1,3 +1,7 @@
+<h1 align="center">
+  Calculadora simples 
+</h1>
+
 # Calculadora simples
 Calculadora que executa cálculos com as operações matemáticas básicas.
 
