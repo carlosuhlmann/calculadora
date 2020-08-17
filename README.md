@@ -1,5 +1,5 @@
 # Calculadora simples
-Calculadora que executa calculo com as operações matemáticas básicas.
+Calculadora que executa cálculos com as operações matemáticas básicas.
 
 ## Construído com: 
 * [HTML](https://www.w3schools.com/html/default.asp)
