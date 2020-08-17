@@ -1,7 +1,7 @@
 ##Calculadora
 
 
-  ![](https://github.com/carlosuhlmann/gerador_loterias/blob/master/gerador.jpg)
+  ![](https://github.com/carlosuhlmann/calculadora/blob/master/calc.gif)
 
 
 
