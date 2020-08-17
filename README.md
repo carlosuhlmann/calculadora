@@ -1,12 +1,15 @@
-<div>
+
   <h1 align="center">
   Calculadora simples 
 </h1>
+
 <p align="center">
   Calculadora que executa cálculos com as operações matemáticas básicas.
 </p>
+
+<hr>
   
- </div>
+
 
 
 
