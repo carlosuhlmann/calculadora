@@ -2,7 +2,7 @@
   Calculadora simples 
 </h1>
 
-<p>
+<p align="center">
   Calculadora que executa cálculos com as operações matemáticas básicas.
 </p>
 
