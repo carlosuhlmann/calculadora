@@ -2,8 +2,12 @@
   Calculadora simples 
 </h1>
 
-# Calculadora simples
-Calculadora que executa cálculos com as operações matemáticas básicas.
+<p>
+  Calculadora que executa cálculos com as operações matemáticas básicas.
+</p>
+
+
+
 
 ## Construído com: 
 * [HTML](https://www.w3schools.com/html/default.asp)
