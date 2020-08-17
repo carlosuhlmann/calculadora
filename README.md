@@ -23,7 +23,7 @@
  </p>
  
  <h1 align="left">
-  Autor
+  Autor: <h2>Carlos Eduardo Uhlmann </h2>
 </h1>
 <h3 align="left">
   Carlos Eduardo Uhlmann
